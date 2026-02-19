@@ -2,6 +2,14 @@
 <h3 align="center">▄︻テ𝒥𝒪𝒴 𝒢𝐻𝒪𝒮𝐻══━一💥</h3>
 <img align="right" alt="coding"width="400" src="https://i.pinimg.com/originals/6d/80/2f/6d802ffd14b32795b4deb0b886a7815a.gif">
 
+
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mr1015y&label=Profile%20views&color=0e75b6&style=flat" alt="mr1015y" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mr1015y" alt="mr1015y" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/mr1015y" target="blank"><img src="https://img.shields.io/twitter/follow/mr1015y?logo=twitter&style=for-the-badge" alt="mr1015y" /></a> </p>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/mr1015y" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mr1015y" height="30" width="40" /></a>
@@ -17,3 +25,9 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mr1015y&show_icons=true&locale=en&layout=compact" alt="mr1015y" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mr1015y&show_icons=true&locale=en" alt="mr1015y" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mr1015y&" alt="mr1015y" /></p>
