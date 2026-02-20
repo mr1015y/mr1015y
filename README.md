@@ -1,6 +1,6 @@
 <h1 align="center">HI 👋 I'M JOY GHOSH</h1>
 <h3 align="center">▄︻テ𝒥𝒪𝒴 𝒢𝐻𝒪𝒮𝐻══━一💥</h3>
-<img align="right" alt="coding"width="400" src="https://i.pinimg.com/originals/6d/80/2f/6d802ffd14b32795b4deb0b886a7815a.gif">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mr1015y&label=Profile%20views&color=0e75b6&style=flat" alt="mr1015y" /> </p>
 
